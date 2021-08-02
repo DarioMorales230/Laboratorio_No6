@@ -54,6 +54,8 @@ Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (1)](https://user-images.githubusercontent.com/85144847/127872481-6080883e-2341-4ece-8e2e-99c6260a8ecb.jpeg)
 
+- Para RL = 680 Ω: 
+
 Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830242-75631e94-d5b1-404e-be76-8bbb3f0fbf9a.png)
@@ -61,6 +63,8 @@ Datos de Voltaje y Corriente:
 Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (2)](https://user-images.githubusercontent.com/85144847/127872496-a63cef34-24b7-4b1c-a2f1-b990b76e6ef4.jpeg)
+
+- Para RL = 820 Ω: 
 
 Datos de Voltaje y Corriente:
 
@@ -70,6 +74,8 @@ Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (3)](https://user-images.githubusercontent.com/85144847/127872519-16900948-8d63-4bc8-8ad0-177781b96d12.jpeg)
 
+- Para RL = 1000 Ω: 
+
 Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830395-3406a68a-17ef-485b-a58b-893cba9bf3aa.png)
@@ -77,6 +83,8 @@ Datos de Voltaje y Corriente:
 Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (4)](https://user-images.githubusercontent.com/85144847/127872535-03f897d8-1631-49ce-aa54-81270726efcc.jpeg)
+
+- Para RL = 1500 Ω: 
 
 Datos de Voltaje y Corriente:
 
@@ -86,6 +94,8 @@ Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (5)](https://user-images.githubusercontent.com/85144847/127872565-9b657145-a33b-4386-bb32-35c5071d53dc.jpeg)
 
+- Para RL = 1800 Ω: 
+
 Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830752-6227ee28-da86-492f-8ba9-806f19620445.png)
@@ -93,6 +103,8 @@ Datos de Voltaje y Corriente:
 Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (6)](https://user-images.githubusercontent.com/85144847/127872596-83d21539-4849-415c-a06a-f94eb69935b9.jpeg)
+
+- Para RL = 2200 Ω: 
 
 Datos de Voltaje y Corriente:
 
@@ -102,6 +114,8 @@ Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (7)](https://user-images.githubusercontent.com/85144847/127872623-3b9cf921-c793-4548-b756-c8de51aabda1.jpeg)
 
+- Para RL = 3900 Ω: 
+
 Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830911-ed10ac4a-4ad7-40e8-9286-ea7049de2ae1.png)
@@ -109,6 +123,8 @@ Datos de Voltaje y Corriente:
 Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (8)](https://user-images.githubusercontent.com/85144847/127872648-44b2fa4c-a78e-4653-8ef8-3436965d93c5.jpeg)
+
+- Para RL = 4700 Ω: 
 
 Datos de Voltaje y Corriente:
 
@@ -118,7 +134,7 @@ Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (9)](https://user-images.githubusercontent.com/85144847/127872667-062cc281-0b16-4cea-b9a2-0972a0fd8a6c.jpeg)
 
-
+3.4. Y por ultimo comparamos estos valores esperimentales con los valores obtenidos teoricamente.
 
 4. PROCESO MATEMATICO Y RESPUESTA A INTERROGANTES
 
