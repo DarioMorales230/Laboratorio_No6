@@ -196,6 +196,17 @@ Siendo la Potencia de:
 
 4.4. Tabla de Resultados de Parámetros Eléctricos del circuito con respecto a la practica.
 
+![image](https://user-images.githubusercontent.com/85144847/127869356-76e90415-f671-4c2f-90c6-fb4e2c2c6863.png)
+
+4.5. Respuesta a interrogantes.
+
+- ¿Cuál fue la potencia máxima en RL? __________________Watts?
+
+La maxima potencia en RL fue de 46.31 mW esto nos quiere decir que la resistencia interna de la fuente de alimentacion de 15 voltios puede ser aproximandamente del valor que obtuvo la resistencia RL
+
+- ¿Para qué valor de RL se obtiene la MTP? _______________ Ω
+
+La MTP se obtiene con el valor de la resistencia de 1.5 kΩ esto podemos decir que dicha resistencia es de igual valor o muy proximo a la resistencia interna de la fuente de alimentacion C.D 
 
 5. VIDEO DE YOUTUBE
 
