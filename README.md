@@ -6,11 +6,15 @@ Morales Dario, Flores Nicolas, Montenegro Edwin
 
 1.1. Objetivo General.
 
-
+Demostrar, desarrollar y calcular el Teorema de Maxima Transferencia de Potencia (MTP) en el siguiente circuito electrico de corriente continua.
 
 1.2. Objetivos Especificos.
 
+- Desarrollar el siguiente circuito analiticamente y comprobar experinentalmente con el uso de tinkercad y un nuevo simulador dacclab los valores obtenidos.
 
+- Analizar el efecto de la Maxima Transferencia de Potencia (MTP) entregada por un circuito eléctrico y como varian dependiendo de las cargas.
+
+- Verificar las relaciones existentes que posee el circuito electrico en este caso logramos analizar la relacion de voltaje, corriente y resistencia (Ley de Ohm) para obtener una potencia mas alta o mas baja. 
 
 2. MARCO TEORICO
 
@@ -308,7 +312,11 @@ https://youtu.be/9umfb8Ov5ao
 
 6. CONCLUSIONES
 
+- Se logro desarrollar de la mejor manera posible el circuito tanto teoricamente como experimentalmente esto debido a los conocimientos adquiridos hasta el momento.
 
+- Se pudo apreciar como actua el efecto carga en el circuito electrico dependiendo de las resistencias esto pudimos observar de mejor manera en nuestro simulador (Tinkercad) y al momento de hacer los calculos correspondientes.
+
+-
 
 7. BIBLIOGRAFIA
 
