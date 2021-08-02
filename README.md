@@ -14,32 +14,62 @@ Morales Dario, Flores Nicolas, Montenegro Edwin
 
 2. MARCO TEORICO
 
-
+![WhatsApp Image 2021-08-02 at 07 30 33](https://user-images.githubusercontent.com/85144847/127870601-067d9ebb-3028-409f-9781-e4b561e6429f.jpeg)
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
 ![image](https://user-images.githubusercontent.com/85144847/127830112-d59fd7a7-6179-4b62-aac8-2b8827584dfe.png)
+
+![WhatsApp Image 2021-08-02 at 08 47 54](https://user-images.githubusercontent.com/85144847/127872443-72728a0c-3f4c-4448-8d8b-ba0c3dadb008.jpeg)
 
 ![image](https://user-images.githubusercontent.com/85144847/127831092-c73c61af-85ab-4583-80db-ae86f5186697.png)
 
 
 ![image](https://user-images.githubusercontent.com/85144847/127830168-f2133f04-c8a4-4ee3-ae25-dc29c4fe7d95.png)
 
+![WhatsApp Image 2021-08-02 at 08 47 54 (1)](https://user-images.githubusercontent.com/85144847/127872481-6080883e-2341-4ece-8e2e-99c6260a8ecb.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/127830242-75631e94-d5b1-404e-be76-8bbb3f0fbf9a.png)
+
+![WhatsApp Image 2021-08-02 at 08 47 54 (2)](https://user-images.githubusercontent.com/85144847/127872496-a63cef34-24b7-4b1c-a2f1-b990b76e6ef4.jpeg)
+
 
 ![image](https://user-images.githubusercontent.com/85144847/127830302-7ef1f668-39ff-4b8e-9f52-7dbc9ec2c93c.png)
 
+![WhatsApp Image 2021-08-02 at 08 47 54 (3)](https://user-images.githubusercontent.com/85144847/127872519-16900948-8d63-4bc8-8ad0-177781b96d12.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/127830395-3406a68a-17ef-485b-a58b-893cba9bf3aa.png)
+
+![WhatsApp Image 2021-08-02 at 08 47 54 (4)](https://user-images.githubusercontent.com/85144847/127872535-03f897d8-1631-49ce-aa54-81270726efcc.jpeg)
+
+
 
 ![image](https://user-images.githubusercontent.com/85144847/127830523-b88a0491-1168-4fc7-bb61-13bd13a9a634.png)
 
+![WhatsApp Image 2021-08-02 at 08 47 54 (5)](https://user-images.githubusercontent.com/85144847/127872565-9b657145-a33b-4386-bb32-35c5071d53dc.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/127830752-6227ee28-da86-492f-8ba9-806f19620445.png)
+
+![WhatsApp Image 2021-08-02 at 08 47 54 (6)](https://user-images.githubusercontent.com/85144847/127872596-83d21539-4849-415c-a06a-f94eb69935b9.jpeg)
+
 
 ![image](https://user-images.githubusercontent.com/85144847/127830844-6c63840c-74ea-41a0-bc6a-1bafe19107e2.png)
 
+![WhatsApp Image 2021-08-02 at 08 47 54 (7)](https://user-images.githubusercontent.com/85144847/127872623-3b9cf921-c793-4548-b756-c8de51aabda1.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/127830911-ed10ac4a-4ad7-40e8-9286-ea7049de2ae1.png)
 
+![WhatsApp Image 2021-08-02 at 08 47 54 (8)](https://user-images.githubusercontent.com/85144847/127872648-44b2fa4c-a78e-4653-8ef8-3436965d93c5.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/85144847/127830976-93e0c604-b4ca-4608-913a-5d0ea70355c9.png)
+
+![WhatsApp Image 2021-08-02 at 08 47 54 (9)](https://user-images.githubusercontent.com/85144847/127872667-062cc281-0b16-4cea-b9a2-0972a0fd8a6c.jpeg)
+
 
 
 4. PROCESO MATEMATICO Y RESPUESTA A INTERROGANTES
