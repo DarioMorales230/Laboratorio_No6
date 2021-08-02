@@ -316,7 +316,7 @@ https://youtu.be/9umfb8Ov5ao
 
 - Se pudo apreciar como actua el efecto carga en el circuito electrico dependiendo de las resistencias esto pudimos observar de mejor manera en nuestro simulador (Tinkercad) y al momento de hacer los calculos correspondientes.
 
--
+- Logramos comprobar la relacion existente que existe entre el voltaje, corriente y resistencia esto lo decimos porque al momento que cambiabamos datos de la resistencia en nuestro simulador la potencia aumentaba o disminuia igualmente pasaba en voltaje y corriente electrica.
 
 7. BIBLIOGRAFIA
 
