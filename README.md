@@ -6,7 +6,7 @@ Morales Dario, Flores Nicolas, Montenegro Edwin
 
 1.1. Objetivo General.
 
-Demostrar, desarrollar y calcular el Teorema de Maxima Transferencia de Potencia (MTP) en el siguiente circuito electrico de corriente continua.
+- Demostrar, desarrollar y calcular el Teorema de Maxima Transferencia de Potencia (MTP) en el siguiente circuito electrico de corriente continua.
 
 1.2. Objetivos Especificos.
 
