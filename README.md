@@ -18,55 +18,103 @@ Morales Dario, Flores Nicolas, Montenegro Edwin
 
 3. EXPLICACION DEL PROCEDIMIENTO
 
+3.1. Abrir nuestra guia metodologica acerca de la practica y analizar el circuito señalado tambien ver que elementos electricos tiene. 
+
+![image](https://user-images.githubusercontent.com/85144847/127874912-7fffbf77-a94c-4fd0-9b1d-0317d81d8196.png)
+
+3.2. Abrir nuestro simulador llamado Tinkercad y armar el circuito presentado en la practica.
+
+![image](https://user-images.githubusercontent.com/85144847/127875563-fc775505-ba3e-4d31-8000-305fcd895063.png)
+
+3.3. Ubicaremos nuestros instrumentos de medicion para poder obtener los valores de voltaje y de corriente de nuestra resistencia RL de la siguiente manera: 
+
+Nota: Para nosotros poder conocer la MTP de nuestra resistencia lo que vamos hacer es multiplicar su respectivo voltaje con su intensidad, esto es debido a que en nuestro simulador (Tinkercad) no tenemos el instrumento de medicion (Vatimetro) para poder conocer la potencia de la resistencia.
+
+- Para RL = 220 Ω:  
+
+Datos de Voltaje y Corriente:
+
 ![image](https://user-images.githubusercontent.com/85144847/127830112-d59fd7a7-6179-4b62-aac8-2b8827584dfe.png)
+
+Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54](https://user-images.githubusercontent.com/85144847/127872443-72728a0c-3f4c-4448-8d8b-ba0c3dadb008.jpeg)
 
+Potencia total del Circuito Electrico:
+
 ![image](https://user-images.githubusercontent.com/85144847/127831092-c73c61af-85ab-4583-80db-ae86f5186697.png)
 
+- Para RL = 470 Ω:  
+
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830168-f2133f04-c8a4-4ee3-ae25-dc29c4fe7d95.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (1)](https://user-images.githubusercontent.com/85144847/127872481-6080883e-2341-4ece-8e2e-99c6260a8ecb.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830242-75631e94-d5b1-404e-be76-8bbb3f0fbf9a.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (2)](https://user-images.githubusercontent.com/85144847/127872496-a63cef34-24b7-4b1c-a2f1-b990b76e6ef4.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830302-7ef1f668-39ff-4b8e-9f52-7dbc9ec2c93c.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (3)](https://user-images.githubusercontent.com/85144847/127872519-16900948-8d63-4bc8-8ad0-177781b96d12.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830395-3406a68a-17ef-485b-a58b-893cba9bf3aa.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (4)](https://user-images.githubusercontent.com/85144847/127872535-03f897d8-1631-49ce-aa54-81270726efcc.jpeg)
 
-
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830523-b88a0491-1168-4fc7-bb61-13bd13a9a634.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (5)](https://user-images.githubusercontent.com/85144847/127872565-9b657145-a33b-4386-bb32-35c5071d53dc.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830752-6227ee28-da86-492f-8ba9-806f19620445.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (6)](https://user-images.githubusercontent.com/85144847/127872596-83d21539-4849-415c-a06a-f94eb69935b9.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830844-6c63840c-74ea-41a0-bc6a-1bafe19107e2.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (7)](https://user-images.githubusercontent.com/85144847/127872623-3b9cf921-c793-4548-b756-c8de51aabda1.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830911-ed10ac4a-4ad7-40e8-9286-ea7049de2ae1.png)
 
+Potencia generada por la resistencia:
+
 ![WhatsApp Image 2021-08-02 at 08 47 54 (8)](https://user-images.githubusercontent.com/85144847/127872648-44b2fa4c-a78e-4653-8ef8-3436965d93c5.jpeg)
 
+Datos de Voltaje y Corriente:
 
 ![image](https://user-images.githubusercontent.com/85144847/127830976-93e0c604-b4ca-4608-913a-5d0ea70355c9.png)
+
+Potencia generada por la resistencia:
 
 ![WhatsApp Image 2021-08-02 at 08 47 54 (9)](https://user-images.githubusercontent.com/85144847/127872667-062cc281-0b16-4cea-b9a2-0972a0fd8a6c.jpeg)
 
